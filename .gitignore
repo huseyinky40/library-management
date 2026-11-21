@@ -1,0 +1,18 @@
+# Build output
+target/
+
+# IDE
+.vscode/
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+
+# OS
+.DS_Store
+
+# Assignment brief and report drafts (submitted on UZEM, not GitHub)
+*.pdf
+*.docx
+~$*
